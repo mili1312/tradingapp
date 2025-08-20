@@ -1,9 +1,9 @@
-streamlit
-pandas
+streamlit==1.48.1
+pandas>=2.0
 numpy
 matplotlib
-plotly==5.24.0
-pandas_ta
-python-binance
-kaleido
+plotly
+pandas-ta
+python-binance==1.0.19
+python-dotenv
 
